@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**ResetPower/ResetPower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![README Card](https://github-readme-stats.vercel.app/api?username=ResetPower&theme=dracula&show_icons=true)
 
-Here are some ideas to get you started:
+## Who Am I?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Junior High School Student in China
+- Minecaft Player
+
+## What Am I Doing In My Free Time?
+
+- Code...
+- Play Minecraft
+
+## When Am I Free
+
+- Summer vacation and winter vacation
+- Some of weekends and holidays
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ResetPower&layout=compact&theme=dark)
