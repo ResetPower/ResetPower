@@ -7,15 +7,9 @@
 - Junior High School Student in China
 - Minecaft Player
 
-## What Am I Doing In My Free Time?
+## 😱
 
-- Code...
-- Play Minecraft
-
-## When Am I Free
-
-- Summer vacation and winter vacation
-- Some of weekends and holidays
+I won't be online except for some weekends and winter/summer vacation.
 
 ## Top Languages
 
