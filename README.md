@@ -9,7 +9,7 @@
 
 ## 😱
 
-I won't be online except for some weekends and winter/summer vacation.
+I won't be online until July 2023.
 
 ## Top Languages
 
